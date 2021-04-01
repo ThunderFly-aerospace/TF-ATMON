@@ -1,0 +1,24 @@
+[submodule "sensors/TFHT01"]
+	path = sensors/TFHT01
+	url = git@github.com:ThunderFly-aerospace/TFHT01.git
+[submodule "software/TFVIZ"]
+	path = software/TFVIZ
+	url = git@github.com:ThunderFly-aerospace/TFVIZ.git
+[submodule "sensors/TFPM01"]
+	path = sensors/TFPM01
+	url = git@github.com:ThunderFly-aerospace/TFPM01.git
+[submodule "sensors/THUNDERMILL01"]
+	path = sensors/THUNDERMILL01
+	url = git@github.com:UniversalScientificTechnologies/THUNDERMILL01.git
+[submodule "controllers/TFUNIPAYLOAD01"]
+	path = controllers/TFUNIPAYLOAD01
+	url = git@github.com:ThunderFly-aerospace/TFUNIPAYLOAD01.git
+[submodule "sensors/TFRPM01"]
+	path = sensors/TFRPM01
+	url = https://github.com/ThunderFly-aerospace/TFRPM01
+[submodule "sensors/TFSLOT01"]
+	path = sensors/TFSLOT01
+	url = git@github.com:ThunderFly-aerospace/TFSLOT01.git
+[submodule "sensors/TFPIPE01"]
+	path = sensors/TFPIPE01
+	url = git@github.com:ThunderFly-aerospace/TFPIPE01.git
