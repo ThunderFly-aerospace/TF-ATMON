@@ -1,2 +1,7 @@
 # TF-ATMON
 Atmospheric measurement by drones
+
+
+## Scientific papers
+
+  * [MEASUREMENT OF THE REGENER-PFOTZER MAXIMUM USING DIFFERENT TYPES OF IONISING RADIATION DETECTORS AND A NEW TELEMETRY SYSTEM TF-ATMON ](https://pubmed.ncbi.nlm.nih.gov/36005953/)
