@@ -2,6 +2,10 @@
 
 Public part of the TF-ATMON tool product. In case you need more details, please contact [ThunderFly s.r.o.](https://www.thunderfly.cz/) with a request. Generic information you could find in the [TF-ATMON fact sheet](https://www.thunderfly.cz/tf-atmon/ThunderFly_TFATMON_factsheet_en.pdf)
 
+See the following video for a demonstration flight of a particulate matter sensor mounted on [TF-G2 autogyro](https://github.com/ThunderFly-aerospace/TF-G2) and looking for smoke atmospheric pollution source. 
+
+[![TF-ATMON particulate matter sensing demonstration](https://img.youtube.com/vi/KUhktPDEi8I/hqdefault.jpg)](https://www.youtube.com/watch?v=KUhktPDEi8I)
+
 ## Vendor information 
 
 ThunderFly TF-ATMON is commercially available as a service from [ThunderFly s.r.o.](https://www.thunderfly.cz/), write an email to info@thunderfly.cz to request more details. 
