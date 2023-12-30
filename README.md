@@ -23,6 +23,8 @@ The following table summarises existing (in production) sensor devices. Other se
 | [AIRDOS03](https://www.ust.cz/UST-dosimeters/AIRDOS/#airdos03-uavdos) | 4 | Semiconductor-based ionising radiation spectrometers|
 | [TFCO201](https://github.com/ThunderFly-aerospace/TFCO201)| | Opto-aucoustic CO2 concentration sensor |
 
+Additional sensors could be connected by using the [TFUNIPAYLOAD01](https://github.com/ThunderFly-aerospace/TFUNIPAYLOAD01) hardware, which slightly increases the weight, but does not require to development PX4/Ardupilot-specific sensor driver. 
+
 ## Scientific papers
 
   * [MEASUREMENT OF THE REGENER-PFOTZER MAXIMUM USING DIFFERENT TYPES OF IONISING RADIATION DETECTORS AND A NEW TELEMETRY SYSTEM TF-ATMON ](https://pubmed.ncbi.nlm.nih.gov/36005953/)
